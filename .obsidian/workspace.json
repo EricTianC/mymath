@@ -1,0 +1,260 @@
+{
+  "main": {
+    "id": "80143bd336867ec6",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c13bf60b8e9ddda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dda4b73456fd862a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "特殊函数与常数/欧拉常数 γ 与 Γ 函数.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "欧拉常数 γ 与 Γ 函数"
+            }
+          },
+          {
+            "id": "7a449c5c0db0ebd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "特殊函数与常数/wiki/欧拉常数.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "欧拉常数"
+            }
+          },
+          {
+            "id": "11d1bac9ec6bf0fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "特殊函数与常数/欧拉常数 γ 与 Γ 函数.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "欧拉常数 γ 与 Γ 函数"
+            }
+          },
+          {
+            "id": "9c5df6e664a86beb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人名公式、不等式/Gronwall 不等式.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gronwall 不等式"
+            }
+          },
+          {
+            "id": "f1845ac044f26e63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人名公式、不等式/Sobolev 不等式.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sobolev 不等式"
+            }
+          },
+          {
+            "id": "9cede396c5154d6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "考试题/边界条件与高阶导数约束下的积分最值问题.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "边界条件与高阶导数约束下的积分最值问题"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "526dc233a0337665",
+    "type": "split",
+    "children": [
+      {
+        "id": "010cb985e62e9db7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bdf97b0ee810627f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "23aacb05e883e8a8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "198c1309fe20b16c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5f15b1de621d2710",
+    "type": "split",
+    "children": [
+      {
+        "id": "13e99793d06eb059",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b4ca937e5d54f07",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "欢迎.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "欢迎 的反向链接列表"
+            }
+          },
+          {
+            "id": "1437b63f0ef60efa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "欢迎.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "欢迎 的出链列表"
+            }
+          },
+          {
+            "id": "d9e524d255aff3ff",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "0c297818d8a8f828",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "欢迎.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "欢迎 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "11d1bac9ec6bf0fa",
+  "lastOpenFiles": [
+    "人名公式、不等式/Gronwall 不等式.md",
+    "人名公式、不等式/Sobolev 不等式.md",
+    "考试题/边界条件与高阶导数约束下的积分最值问题.md",
+    "特殊函数与常数/欧拉常数 γ 与 Γ 函数.md",
+    "考试题",
+    "人名公式、不等式",
+    "特殊函数与常数/wiki/调和级数.md",
+    "特殊函数与常数/wiki/欧拉常数.md",
+    "特殊函数与常数/wiki/Gamma 函数.md",
+    "欢迎.md",
+    "$/Gamma$ 函数.md",
+    "$",
+    "特殊函数与常数/wiki",
+    "创建链接.md",
+    "特殊函数与常数"
+  ]
+}
