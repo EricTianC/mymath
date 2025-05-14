@@ -11,10 +11,14 @@
             "id": "fdf8647aa9a31389",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "物理/大物实验/用 Julia 做大物实验数据处理.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "用 Julia 做大物实验数据处理"
             }
           }
         ]
@@ -91,6 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "物理/大物实验/用 Julia 做大物实验数据处理.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,6 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "物理/大物实验/用 Julia 做大物实验数据处理.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -121,7 +127,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {},
+          "state": {
+            "file": "物理/大物实验/用 Julia 做大物实验数据处理.md"
+          },
           "icon": "lucide-list",
           "title": "大纲"
         }
@@ -136,7 +144,8 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "fdf8647aa9a31389",
