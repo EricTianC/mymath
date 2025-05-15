@@ -20,10 +20,17 @@ Julia 是一门年轻的语言，距第一个正式版本 (1.0.0) 发布才仅�
 
 ### 安装
 
-访问 Julia 中文社区的 [Download Julia](https://cn.julialang.org/downloads/)页面，选择对应版本进行下载。（一般而言选择 Windows 一栏的 64-bit 选项即可）
+访问 Julia 中文社区的 [Download Julia](https://cn.julialang.org/downloads/) 页面，选择对应版本进行下载。（一般而言选择 Windows 一栏的 64-bit 选项即可）
 
 然后双击安装包完成安装即可 （如需安装到自己指定的目录，建议先选择以管理员模式运行）。
 
 ### 基础使用方法
 
-安装完成后，可以直接当作普通应用点击桌面或开始菜单图标开始运行。或者zi'a
+安装完成后，可以直接当作普通应用点击桌面或开始菜单图标开始运行。或者在 Windows Terminal 中输入 `julia` 指令.
+
+随后，你会看到 Julia 的 REPL (read-eval-print-loop) 界面，类似于 Python.
+
+#### 数值运算
+
+与 Python 一样，Julia 也采用动态类型 (但需要注意的是，类型在 Julia 程序中充当着比较重要的角色，这点也许稍后会解释).
+
