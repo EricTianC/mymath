@@ -110,4 +110,19 @@ ys = [2k^2 for k in xs] # [2, 8, ...]
 
 同时可以使用 `using Unitful: m, s, N` 导入单位符号，或使用 `u"cm"` 代表单位.
 
-带单位的f
+带单位的符号与大部分运算兼容，也与 `Plots.jl` 兼容.
+
+相关函数
+- upreferred(1N)：转为国际单位制中的基本单位表示
+- uconvert(m, 3.14mm): 单位转换
+- ustrip(3s): 去除单位
+##### 不确定度分析: Measurements.jl
+
+`]add Measurements`
+`using Measurements`
+
+使用 `\pm` 打出 `±` ，按直觉使用即可
+
+##### 线性回归: GLM.jl (暂不详细介绍)
+##### 非线性拟合: LsqFit.jl
+
