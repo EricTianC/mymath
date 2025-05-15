@@ -74,4 +74,8 @@ julia> A = [1 2 3; 4 5 6]
 
 输入命令 `using Plots` 即可开始使用. （第一次使用可能会有一段时间预编译过程）
 
-Plots
+Plots.jl 的设计目标之一就是符合直觉，通过观察几个示例，你可以自由地举一反三，而这些你灵机一动想出来的用法应该都能奏效. 不过你仍可以查看如 [19 Julia统计图形–Plots库 | Julia语言入门](https://www.math.pku.edu.cn/teachers/lidf/docs/Julia/html/_book/plplots.html#plplots-lines) 这样的资料获取更多参考.
+
+##### 直接绘制函数
+
+zai
