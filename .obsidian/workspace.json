@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "物理/大物实验/用 Julia 做大物实验数据处理.md",
+                "file": "特殊函数与常数/欧拉常数 γ 与 Γ 函数.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "用 Julia 做大物实验数据处理"
+              "title": "欧拉常数 γ 与 Γ 函数"
             }
           },
           {
@@ -242,19 +242,19 @@
   },
   "active": "a4a68101ccaff932",
   "lastOpenFiles": [
+    "特殊函数与常数/wiki/Gamma 函数.md",
+    "特殊函数与常数/wiki/欧拉常数.md",
+    "特殊函数与常数/wiki/调和级数.md",
+    "特殊函数与常数/欧拉常数 γ 与 Γ 函数.md",
+    "人名公式、不等式/Sobolev 不等式.md",
     "人名公式、不等式/Gronwall 不等式.md",
-    "物理/大物实验/用 Julia 做大物实验数据处理.md",
+    "物理/大物实验/面向大物实验的 Julia 安利.md",
     "计算机",
     "物理/大物实验",
     "物理",
     "考试题/边界条件与高阶导数约束下的积分最值问题.md",
-    "特殊函数与常数/欧拉常数 γ 与 Γ 函数.md",
-    "人名公式、不等式/Sobolev 不等式.md",
     "考试题",
     "人名公式、不等式",
-    "特殊函数与常数/wiki/调和级数.md",
-    "特殊函数与常数/wiki/欧拉常数.md",
-    "特殊函数与常数/wiki/Gamma 函数.md",
     "欢迎.md",
     "$/Gamma$ 函数.md",
     "$",
