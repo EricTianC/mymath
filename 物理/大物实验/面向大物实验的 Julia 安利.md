@@ -76,8 +76,7 @@ julia> A = [1 2 3; 4 5 6]
 
 Plots.jl 的设计目标之一就是符合直觉，通过观察几个示例，你可以自由地举一反三，而这些你灵机一动想出来的用法应该都能奏效. 不过你仍可以查看如 [19 Julia统计图形–Plots库 | Julia语言入门](https://www.math.pku.edu.cn/teachers/lidf/docs/Julia/html/_book/plplots.html#plplots-lines) 这样的资料获取更多参考.
 
-##### 直接绘制函数
-
+###
 在 Julia 中，函数也是一种类型. 比如 `sin`
 所以想绘制函数，只需直接将函数传入绘图函数即可
 
@@ -85,7 +84,7 @@ Plots.jl 的设计目标之一就是符合直觉，通过观察几个示例，�
 plot(sin)
 ```
 
-![[pigsin.png]]
+![[pigsin.svg]]
 如果你有两组数据
 
 ```julia
@@ -94,4 +93,9 @@ ys = [2k^2 for k in xs] # [2, 8, ...]
 ```
 
 可用 `scatter(xs, ys)` 做散点图 (对应 `plot` 为折线图)
+
+![[pigquad.svg]]
+通过设置参数可以更改图中其它样式，如 `scatter(exp2_l, exp2_t.^2, xlabel="Length", ylabel=L"(30T)^2", legend=false)`  （摘自单摆实验报告)
+
+
 
