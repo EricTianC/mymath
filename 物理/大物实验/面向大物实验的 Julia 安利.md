@@ -113,9 +113,9 @@ ys = [2k^2 for k in xs] # [2, 8, ...]
 带单位的符号与大部分运算兼容，也与 `Plots.jl` 兼容.
 
 相关函数
-- upreferred(1N)：转为国际单位制中的基本单位表示
-- uconvert(m, 3.14mm): 单位转换
-- ustrip(3s): 去除单位
+- `upreferred(1N)`：转为国际单位制中的基本单位表示
+- `uconvert(m, 3.14mm)`: 单位转换
+- `ustrip(3s)`: 去除单位
 ##### 不确定度分析: Measurements.jl
 
 `]add Measurements`
@@ -126,3 +126,10 @@ ys = [2k^2 for k in xs] # [2, 8, ...]
 ##### 线性回归: GLM.jl (暂不详细介绍)
 ##### 非线性拟合: LsqFit.jl
 
+```julia
+@. model(t, p) = p[1] * Base.sin(p[2] * t + p[3]) + p[4] # p = [A, ω, φ, C]
+# 再使用 curve_fit 调整初始参数即可
+```
+
+
+本篇介绍尚未完善，更多的奇妙用法待你探索. 
