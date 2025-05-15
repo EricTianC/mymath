@@ -85,3 +85,13 @@ Plots.jl 的设计目标之一就是符合直觉，通过观察几个示例，�
 plot(sin)
 ```
 
+![[pigsin.png]]
+如果你有两组数据
+
+```julia
+xs = 1:10 # 一到十列表的简写
+ys = [2k^2 for k in xs] # [2, 8, ...]
+```
+
+可用 `scatter(xs, ys)` 做散点图 (对应 `plot` 为折线图)
+
