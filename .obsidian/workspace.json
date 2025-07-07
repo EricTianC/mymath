@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "物理/大物实验/面向大物实验的 Julia 安利.md",
+                "file": "特殊函数与常数/wiki/调和级数.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "面向大物实验的 Julia 安利"
+              "title": "调和级数"
             }
           },
           {
@@ -240,10 +240,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a4a68101ccaff932",
+  "active": "bdf97b0ee810627f",
   "lastOpenFiles": [
-    "物理/大物实验/pigsin.png",
     "物理/大物实验/面向大物实验的 Julia 安利.md",
+    "物理/大物实验/pigsin.png",
     "物理/大物实验/pigsin.svg",
     "物理/大物实验/pigquad.svg",
     "pigquad.png",
