@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "特殊函数与常数/wiki/调和级数.md",
+                "file": "其他随笔/文本表征学习——评课.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "调和级数"
+              "title": "文本表征学习——评课"
             }
           },
           {
@@ -240,8 +240,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "bdf97b0ee810627f",
+  "active": "a4a68101ccaff932",
   "lastOpenFiles": [
+    "特殊函数与常数/wiki/调和级数.md",
+    "其他随笔/文本表征学习——评课.md",
+    "其他随笔",
     "物理/大物实验/面向大物实验的 Julia 安利.md",
     "物理/大物实验/pigsin.png",
     "物理/大物实验/pigsin.svg",
@@ -250,7 +253,6 @@
     "特殊函数与常数/欧拉常数 γ 与 Γ 函数.md",
     "特殊函数与常数/wiki/Gamma 函数.md",
     "特殊函数与常数/wiki/欧拉常数.md",
-    "特殊函数与常数/wiki/调和级数.md",
     "人名公式、不等式/Sobolev 不等式.md",
     "人名公式、不等式/Gronwall 不等式.md",
     "计算机",
