@@ -231,6 +231,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "obsidian-git:Open Git source control": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
@@ -240,7 +241,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a4a68101ccaff932",
+  "active": "bdf97b0ee810627f",
   "lastOpenFiles": [
     "特殊函数与常数/wiki/调和级数.md",
     "其他随笔/文本表征学习——评课.md",
